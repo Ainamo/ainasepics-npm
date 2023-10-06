@@ -1,6 +1,6 @@
 {
   "name": "ainasepics",
-  "version": "4.6.1",
+  "version": "4.6.12",
   "description": "Get a lot of anime gifs and some animal pictures.",
   "main": "index.js",
   "types": "index.d.ts",
