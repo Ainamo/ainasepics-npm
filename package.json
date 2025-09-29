@@ -1,0 +1,30 @@
+{
+  "name": "ainasepics",
+  "version": "4.6.14",
+  "description": "Get a lot of anime gifs and some animal pictures.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ainamo/ainasepics-npm.git"
+  },
+  "keywords": [
+    "anime",
+    "gifs",
+    "images",
+    "pics",
+    "random",
+    "discord",
+    "pictures",
+    "random-anime-gifs",
+    "discord",
+    "anime-gifs",
+    "media",
+    "multimedia"
+  ],
+  "author": "Ainamo",
+  "license": "MIT"
+}
